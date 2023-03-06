@@ -1,1 +1,1 @@
-# CycleGAN-VC2-N
+# V2V_Ru
