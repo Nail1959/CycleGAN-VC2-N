@@ -1,1 +1,1 @@
-# CycleGAN-VC-N
+# CycleGAN-VC2-N
